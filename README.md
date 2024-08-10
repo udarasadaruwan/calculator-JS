@@ -41,22 +41,20 @@ open index.html
 ```
 or double-click the index.html file.
 
-- Usage
+<h3>Usage</h3>
 
 <b>Entering Numbers:</b>
 
-Enter the first number in the input field and press the Enter key.
-Enter the second number in the input field and press the Enter key again.
-Performing Operations:
+- Enter the first number in the input field and press the Enter key.
+- Enter the second number in the input field and press the Enter key again.
+<b>Performing Operations:</b>
 
 Click one of the operation buttons (+, -, *, /, %) to perform the calculation.
 The result will be displayed below the buttons.
-Clearing the Input:
 
+<b>Clearing the Input:<b>
 Press the "C" button or enter a new number after two numbers have been entered to reset the calculator and start over.
-Code Overview
-HTML Structure
-The structure of the calculator is defined in the index.html file. It includes the following key elements:
+
 
 Input Field (<input>): Where users enter numbers.
 Buttons (<button>): For performing arithmetic operations and clearing the input.
