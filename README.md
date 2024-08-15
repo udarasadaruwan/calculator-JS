@@ -35,7 +35,7 @@ git clone https://github.com/Udara18/calculator-JS.git
 ```bash
 cd calculator-web-app
 ```
- -Open index.html in your web browser:
+- Open index.html in your web browser:
 ```bash
 open index.html
 ```
