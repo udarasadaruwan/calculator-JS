@@ -2,6 +2,7 @@
 
 - Introduction
 This project is a simple, yet visually appealing web-based calculator. Built using HTML, CSS (with SCSS considerations), and JavaScript, the calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, division, and modulus. It also includes an animated background for an enhanced user experience.
+live link https://udarasadaruwan.github.io/calculator-JS/
 
 <h3>Table of Contents</h3>
 
